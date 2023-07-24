@@ -15,4 +15,5 @@ To use the project, simply enter the desired city and click the "Get Weather" bu
 This project is a great opportunity to explore API integration & data fetching. It provides a practical and efficient solution for users to stay informed about real-time weather conditions globally.
 
 Check Demo: https://youtu.be/V9gwSurtyys
+
 Get instant access to weather forecasts and enjoy a seamless user experience with this weather forecast project. Stay prepared and make informed decisions with accurate weather information at your fingertips.
